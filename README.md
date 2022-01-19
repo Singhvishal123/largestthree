@@ -1,2 +1,2 @@
-# largestthree
-C++ program to find the largest three elements in an array
+# array
+C++ program to find the different elements in an array
